@@ -7,5 +7,5 @@ Hi, I'm Marcos. 🕶️
 - 👾 Plus: Huge gaming nerd.
 
 <p align="center">
-  <img src="https://giphy.com/gifs/glitch-stare-skulls-l3q2JvztR3AjtBxQs" width="400" height="200">
+  <img src="" width="400" height="200">
 <p>
